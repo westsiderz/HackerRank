@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Practice/Algorithms/BreakingTheRecord/.vs/BreakingTheRecord/v15
+/.vs
+/Practice/Algorithms/BreakingTheRecord/Debug
