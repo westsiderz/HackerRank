@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountingValleys", "..\..\..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JumpingOnTheClouds", "..\..\..\InterviewPreps\WarmUps\JumpingOnTheClouds\JumpingOnTheClouds.vcxproj", "{72B17869-98A8-4F97-8BF1-921A30FF124B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RepeatedString", "..\..\..\InterviewPreps\WarmUps\RepeatedString\RepeatedString.vcxproj", "{62BC1572-D4AA-4E94-B70C-A36841B11D3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{72B17869-98A8-4F97-8BF1-921A30FF124B}.Release|x64.Build.0 = Release|x64
 		{72B17869-98A8-4F97-8BF1-921A30FF124B}.Release|x86.ActiveCfg = Release|Win32
 		{72B17869-98A8-4F97-8BF1-921A30FF124B}.Release|x86.Build.0 = Release|Win32
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Debug|x64.ActiveCfg = Debug|x64
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Debug|x64.Build.0 = Debug|x64
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Debug|x86.Build.0 = Debug|Win32
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Release|x64.ActiveCfg = Release|x64
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Release|x64.Build.0 = Release|x64
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Release|x86.ActiveCfg = Release|Win32
+		{62BC1572-D4AA-4E94-B70C-A36841B11D3B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
