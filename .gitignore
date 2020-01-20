@@ -8,3 +8,8 @@
 *.opendb
 *.db
 *.suo
+/InterviewPreps/WarmUps/CountingValleys/x64/Debug/CountingValleys.tlog
+/InterviewPreps/WarmUps/CountingValleys/x64/Debug
+/Practice/Algorithms/BreakingTheRecord/.vs/BreakingTheRecord/v16
+/Practice/Algorithms/BreakingTheRecord/x64/Debug
+/Practice/Algorithms/BreakingTheRecord/BreakingTheRecord/x64/Debug
